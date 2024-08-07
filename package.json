@@ -1,0 +1,32 @@
+{
+  "name": "jdex",
+  "displayName": "jd-extensions",
+  "description": "extensions used in my daily basis",
+  "publisher": "jd-apprentice",
+  "author": {
+    "name": "Jonathan",
+    "url": "https://jonathan.com.ar",
+    "email": "contacto@jonathan.com.ar"
+  },
+  "icon": "Logo.png",
+  "bugs": {
+    "url": "https://github.com/jd-apprentice/jd-extensions/issues"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "license": "MIT",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "GitHub.copilot",
+    "LeonardSSH.vscord",
+    "d-koppenhagen.file-tree-to-text-generator",
+    "s-nlf-fh.glassit",
+    "PKief.material-icon-theme",
+    "hashicorp.terraform",
+    "redhat.vscode-yaml"
+  ]
+}
